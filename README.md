@@ -6,7 +6,7 @@
 
 Once those are done, create a new folder called `stockCarVisual`
 
-## Stock Car Visual
+## Stock Car Visual (Final Boss)
 You must create these files:
 - an `index.html`
 - a directory called `js` with a file `index.js`
