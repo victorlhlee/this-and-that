@@ -10,7 +10,7 @@ window.onload = function () {
     //console.log(navi[i]);
     navi[i].addEventListener('click', function(){
       console.log(this);
-    })
+    });
    }
 
 
