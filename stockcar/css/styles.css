@@ -1,0 +1,27 @@
+body{
+  background-color: yellow;
+}
+
+#model{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#year{
+  font-size: 20px;
+}
+
+#trans{
+  font-size: 15px;
+}
+
+#driver{
+  font-size: 20px;
+
+}
+
+#passengers{
+  font-size: 30px;
+  background-color: orange;
+  
+}
